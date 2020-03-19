@@ -1,1 +1,134 @@
-[{"url":"/","title":"GitDocs","breadcrumbs":[{"title":"GitDocs","url":"/"}],"content":"# Welcome to The Explorer\n\nThis is a basic documentation site to get you started using GitDocs! We hope you enjoy it.\nAs Kanye West said:\nkiojenfiezfenzfeznjfnzgfezksngksgbezbgzebfgjbfgi\n\n> We're living the future so\n> the present is our past."},{"url":"/getting-started/","title":"Getting Started","breadcrumbs":[{"title":"GitDocs","url":"/"},{"title":"Getting Started","url":"/getting-started/"}],"content":"# Getting Started\n\nHere are some instructions on how to get started with our thing."},{"url":"/new-folder-ahlam/","title":"New Folder Ahlam","breadcrumbs":[{"title":"GitDocs","url":"/"},{"title":"New Folder Ahlam","url":"/new-folder-ahlam/"}],"content":"As Kanye West said:\n\n> We're living the future so\n> the present is our past.\n# title test\n\ntest test content by ahlam \n//let's test resrictions"},{"url":"/ok-espace/","title":"Ok Espace","breadcrumbs":[{"title":"GitDocs","url":"/"},{"title":"Ok Espace","url":"/ok-espace/"}],"content":"this is very cool\nu k\nand ofc i do k\n\n# zrzr,zprp\n\n\n\nzjznrlzjnr\nrrzjrnz"},{"url":"/done/","title":"Done","breadcrumbs":[{"title":"GitDocs","url":"/"},{"title":"Done","url":"/done/"}],"content":"efekjfznfzk,n ezlgjzgjnzofnze\nzelknzofnezjn"},{"url":"/about-us/","title":"About Us","breadcrumbs":[{"title":"GitDocs","url":"/"},{"title":"About Us","url":"/about-us/"}],"content":"# About Us\n\nGitDocs was built by the good folks over here at [Timber](https://timber.io). \nYou should check us out.\nHi\n\n\n\n# test\nthis is a test! i dunno what will i have as a result, but let s see\n\n\nAlt-H1\n======\n\nhello, guys how are you! \ni hope you re fine, and take the l3ibat rah corona kador!\n\nAlt-H1\n======\n\n\n```javascript\n\nC_TEXT($1;$attribut)\nC_TEXT($0;$value)\n\nARRAY OBJECT($_adresses;0)\nC_OBJECT($address)\nC_OBJECT($detail)\n\n$attribut:=$1\n\nOB GET ARRAY([Member]address;\"address\";$_adresses)\nIf (Size of array($_adresses)>0)\n\t\n\t$address:=$_adresses{1}\n\t$detail:=OB Get($address;\"detail\";Is object)\n\t$value:=OB Get($detail;$attribut;Is text)\nElse \n\t$value:=\"\"\nEnd if \n\n$0:=$value\n```"},{"url":"/getting-started/installation/","title":"Installation","breadcrumbs":[{"title":"GitDocs","url":"/"},{"title":"Getting Started","url":"/getting-started/"},{"title":"Installation","url":"/getting-started/installation/"}],"content":"# Installation\n\nHere are some installation instructions for our thing."},{"url":"/getting-started/troubleshooting/","title":"Troubleshooting","breadcrumbs":[{"title":"GitDocs","url":"/"},{"title":"Getting Started","url":"/getting-started/"},{"title":"Troubleshooting","url":"/getting-started/troubleshooting/"}],"content":"# Troubleshooting\n\nHaving problems with the thing? Deal with them yourself."},{"url":"/ok-espace/another-one/","title":"Another One","breadcrumbs":[{"title":"GitDocs","url":"/"},{"title":"Ok Espace","url":"/ok-espace/"},{"title":"Another One","url":"/ok-espace/another-one/"}],"content":"another one said \n\n> DJ khaled: another one\n\nand you know this is explorer mdfkz"},{"url":"/about-us/testo/","title":"Testo","breadcrumbs":[{"title":"GitDocs","url":"/"},{"title":"About Us","url":"/about-us/"},{"title":"Testo","url":"/about-us/testo/"}],"content":"Hi this is my test page!\nhope you ll like it!\n# ok, but what if u didn't like it!?\nmmmmm\n\n#1\nmojombo#1\nmojombo/github-flavored-markdown#1"},{"url":"/about-us/work-with-us/","title":"Work With Us","breadcrumbs":[{"title":"GitDocs","url":"/"},{"title":"About Us","url":"/about-us/"},{"title":"Work With Us","url":"/about-us/work-with-us/"}],"content":"# Work With Us\n\nWant to build cool things? [Timber Careers](https://timber.io/about) and this is  link by me\n[test Link](https://timber.io/about)"}]
+[{
+    "url": "/",
+    "title": "test",
+    "breadcrumbs": [{
+        "title": "GitDocs",
+        "url": "/"
+    }],
+    "content": "# Welcome to The Explorer\n\nThis is a basic documentation site to get you started using GitDocs! We hope you enjoy it.\nAs Kanye West said:\nkiojenfiezfenzfeznjfnzgfezksngksgbezbgzebfgjbfgi\n\n> We're living the future so\n> the present is our past."
+}, {
+    "url": "/getting-started/",
+    "title": "Getting Started",
+    "breadcrumbs": [{
+        "title": "GitDocs",
+        "url": "/"
+    }, {
+        "title": "Getting Started",
+        "url": "/getting-started/"
+    }],
+    "content": "# Getting Started\n\nHere are some instructions on how to get started with our thing."
+}, {
+    "url": "/new-folder-ahlam/",
+    "title": "New Folder Ahlam",
+    "breadcrumbs": [{
+        "title": "GitDocs",
+        "url": "/"
+    }, {
+        "title": "New Folder Ahlam",
+        "url": "/new-folder-ahlam/"
+    }],
+    "content": "As Kanye West said:\n\n> We're living the future so\n> the present is our past.\n# title test\n\ntest test content by ahlam \n//let's test resrictions"
+}, {
+    "url": "/ok-espace/",
+    "title": "Ok Espace",
+    "breadcrumbs": [{
+        "title": "GitDocs",
+        "url": "/"
+    }, {
+        "title": "Ok Espace",
+        "url": "/ok-espace/"
+    }],
+    "content": "this is very cool\nu k\nand ofc i do k\n\n# zrzr,zprp\n\n\n\nzjznrlzjnr\nrrzjrnz"
+}, {
+    "url": "/done/",
+    "title": "Done",
+    "breadcrumbs": [{
+        "title": "GitDocs",
+        "url": "/"
+    }, {
+        "title": "Done",
+        "url": "/done/"
+    }],
+    "content": "efekjfznfzk,n ezlgjzgjnzofnze\nzelknzofnezjn"
+}, {
+    "url": "/about-us/",
+    "title": "About Us",
+    "breadcrumbs": [{
+        "title": "GitDocs",
+        "url": "/"
+    }, {
+        "title": "About Us",
+        "url": "/about-us/"
+    }],
+    "content": "# About Us\n\nGitDocs was built by the good folks over here at [Timber](https://timber.io). \nYou should check us out.\nHi\n\n\n\n# test\nthis is a test! i dunno what will i have as a result, but let s see\n\n\nAlt-H1\n======\n\nhello, guys how are you! \ni hope you re fine, and take the l3ibat rah corona kador!\n\nAlt-H1\n======\n\n\n```javascript\n\nC_TEXT($1;$attribut)\nC_TEXT($0;$value)\n\nARRAY OBJECT($_adresses;0)\nC_OBJECT($address)\nC_OBJECT($detail)\n\n$attribut:=$1\n\nOB GET ARRAY([Member]address;\"address\";$_adresses)\nIf (Size of array($_adresses)>0)\n\t\n\t$address:=$_adresses{1}\n\t$detail:=OB Get($address;\"detail\";Is object)\n\t$value:=OB Get($detail;$attribut;Is text)\nElse \n\t$value:=\"\"\nEnd if \n\n$0:=$value\n```"
+}, {
+    "url": "/getting-started/installation/",
+    "title": "Installation",
+    "breadcrumbs": [{
+        "title": "GitDocs",
+        "url": "/"
+    }, {
+        "title": "Getting Started",
+        "url": "/getting-started/"
+    }, {
+        "title": "Installation",
+        "url": "/getting-started/installation/"
+    }],
+    "content": "# Installation\n\nHere are some installation instructions for our thing."
+}, {
+    "url": "/getting-started/troubleshooting/",
+    "title": "Troubleshooting",
+    "breadcrumbs": [{
+        "title": "GitDocs",
+        "url": "/"
+    }, {
+        "title": "Getting Started",
+        "url": "/getting-started/"
+    }, {
+        "title": "Troubleshooting",
+        "url": "/getting-started/troubleshooting/"
+    }],
+    "content": "# Troubleshooting\n\nHaving problems with the thing? Deal with them yourself."
+}, {
+    "url": "/ok-espace/another-one/",
+    "title": "Another One",
+    "breadcrumbs": [{
+        "title": "GitDocs",
+        "url": "/"
+    }, {
+        "title": "Ok Espace",
+        "url": "/ok-espace/"
+    }, {
+        "title": "Another One",
+        "url": "/ok-espace/another-one/"
+    }],
+    "content": "another one said \n\n> DJ khaled: another one\n\nand you know this is explorer mdfkz"
+}, {
+    "url": "/about-us/testo/",
+    "title": "Testo",
+    "breadcrumbs": [{
+        "title": "GitDocs",
+        "url": "/"
+    }, {
+        "title": "About Us",
+        "url": "/about-us/"
+    }, {
+        "title": "Testo",
+        "url": "/about-us/testo/"
+    }],
+    "content": "Hi this is my test page!\nhope you ll like it!\n# ok, but what if u didn't like it!?\nmmmmm\n\n#1\nmojombo#1\nmojombo/github-flavored-markdown#1"
+}, {
+    "url": "/about-us/work-with-us/",
+    "title": "Work With Us",
+    "breadcrumbs": [{
+        "title": "GitDocs",
+        "url": "/"
+    }, {
+        "title": "About Us",
+        "url": "/about-us/"
+    }, {
+        "title": "Work With Us",
+        "url": "/about-us/work-with-us/"
+    }],
+    "content": "# Work With Us\n\nWant to build cool things? [Timber Careers](https://timber.io/about) and this is  link by me\n[test Link](https://timber.io/about)"
+}]
